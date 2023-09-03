@@ -206,44 +206,6 @@ footer {
   padding: 20px 0 10px 0;
   text-align: center;
 }
-form {
-  margin: 0 auto;
-  max-width: 900px;
-}
-input,textarea, button {
-  border: none;
-  width: 55%;
-  padding: 15px 10px;
-  margin: 1px 0;
-  font-size: 1.2em;
-  font-family:'Times New Roman', Times, serif;
-  border-radius: 8px;
-  resize: none;
-}
-label{
-  font-size: 1.4em;
-  font-family:'Times New Roman', Times, serif;
-  display: flex;
-  width:auto;
-  text-align: center;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: stretch;
-  align-items: stretch;
-}
-textarea {
-  height: 120px;
-}
-button {
-  font-size: 1.5em;
-  background-color: #FFFAE1;
-}
-button:hover {
-  background-color: #e55039;
-  color: #FFFAE1;
-  cursor: pointer;
-  transition: 0.3s ease-in-out;
-}
 #deuxiemeTrait {
   height: 1px;
   width: 75%;
